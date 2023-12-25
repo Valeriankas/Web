@@ -1,5 +1,5 @@
-+++ 
-draft = true
++++
+draft = false
 date = 2023-12-10T15:43:53+03:00
 title = "Как я освободил время для себя"
 description = ""
